@@ -12,10 +12,11 @@ Current Plan:
     - 3-Years
     - 5-Years
     - 7-Years
-4. Collect market index data for the selected fund category
-5. Calculate typical indicators: Alpha, Beta, R-Squared, Standard Deviation, Information Ratio
-6. Calculate other known immportant indicators:
+4. Calculate other known immportant returns:
+    - Trailing returns
     - Rolling returns
+5. Collect market index data for the selected fund category
+6. Calculate typical indicators: Alpha, Beta, R-Squared, Standard Deviation, Information Ratio
 7. Research & calculate other stats:
     - Performance when market was up
     - Performance when market was down
