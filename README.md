@@ -25,3 +25,5 @@ Current Plan:
 10. Select another Mutual Fund from the same category
 11. Compare two selected funds using all the above calculated information
 
+Other Quantitative Values:
+1. Rolling Return Statistics and Distribution
